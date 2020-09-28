@@ -1,6 +1,9 @@
 {
   "name": "project1",
   "version": "1.0.0",
-  "dependencies": {"uuid": "latest"
+  "dependencies": {
+    "aws-sdk": "^2.761.0",
+    "jimp": "latest",
+    "uuid": "latest"
   }
 }
